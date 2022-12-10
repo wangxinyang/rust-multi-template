@@ -1,7 +1,21 @@
-# rust-multi-template
+![](https://github.com/wangxinyang/rust-multi-template/workflows/build/badge.svg)
 
-- generate the multi workspace project with this template by use cargo generate command
+# {{ project-name }}
 
+description about the crate
+
+## How to use it
+
+```bash
+$ cargo generate --git https://github.com/wangxinyang/rust-multi-template.git
 ```
-cargo generate --git https://github.com/wangxinyang/rust-multi-template.git
-```
+
+Have fun with this crate!
+
+## License
+
+This project is distributed under the terms of MIT.
+
+See [LICENSE](LICENSE.md) for details.
+
+Copyright 2023 Xinyang Wang
